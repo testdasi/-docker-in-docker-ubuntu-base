@@ -20,7 +20,7 @@ RUN rm -Rf /testdasi \
     && rm -Rf /testdasi/deprecated
 
 ## execute execute execute ##
-RUN /bin/bash /testdasi/scripts-install/install-docker.sh
+RUN /bin/bash /testdasi/scripts-install/install-docker-in-docker-ubuntu-base.sh
 
 ## debug mode (comment to disable) ##
 #RUN /bin/bash /testdasi/scripts-install/install-debug-mode.sh
