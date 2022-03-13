@@ -1,2 +1,2 @@
-# -docker-in-docker-ubuntu-base
+# docker-in-docker-ubuntu-base
 DinDu base image
